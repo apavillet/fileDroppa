@@ -1,4 +1,4 @@
-import {Component, Input, EventEmitter, Output, ChangeDetectionStrategy} from 'angular2/core';
+import {Component, Input, EventEmitter, Output, ChangeDetectionStrategy} from '@angular/core';
 import {File} from './File';
 import {FilesStore} from "../Services/FileStore.service";
 import {FileUpload} from "../Services/FileUpload.service";

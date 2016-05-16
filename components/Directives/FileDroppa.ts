@@ -1,4 +1,4 @@
-import {Directive, ElementRef, Renderer, Input, EventEmitter, Output} from 'angular2/core';
+import {Directive, ElementRef, Renderer, Input, EventEmitter, Output} from '@angular/core';
 import {FileParser} from "../Services/FileParser.service";
 import {FilesStore} from "../Services/FileStore.service";
 

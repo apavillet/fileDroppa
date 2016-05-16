@@ -1,4 +1,4 @@
-import {Component, Input, Output, EventEmitter} from 'angular2/core';
+import {Component, Input, Output, EventEmitter} from '@angular/core';
 import {NgStyle} from 'angular2/common';
 import {GetSizePipe} from '../Pipes/GetSize.pipe';
 

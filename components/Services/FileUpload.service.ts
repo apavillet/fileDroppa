@@ -1,4 +1,4 @@
-import {Injectable, EventEmitter, Output, Input, NgZone} from "angular2/core";
+import {Injectable, EventEmitter, Output, Input, NgZone} from "@angular/core";
 
 @Injectable()
 export class FileUpload {

@@ -1,4 +1,4 @@
-import {Pipe, PipeTransform} from 'angular2/core';
+import {Pipe, PipeTransform} from '@angular/core';
 /*
  * Converts bytes to MB, GB and so on 
  * Takes an bytes value argument that defaults to 0.

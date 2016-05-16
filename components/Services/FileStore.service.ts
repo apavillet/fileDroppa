@@ -1,4 +1,4 @@
-import {Injectable, EventEmitter} from "angular2/core";
+import {Injectable, EventEmitter} from "@angular/core";
 import {FileUpload} from "./FileUpload.service";
 import {iFile} from "./FileWrapper.service";
 import {FileWrapper} from "./FileWrapper.service";
